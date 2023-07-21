@@ -46,5 +46,11 @@
 			</plugin>
 		</plugins>
 	</build>
-
+	<distributionManagement>
+        	<repository>
+            		<id>devops-exam-SR</id>
+            		<name>devops-exam-SR</name>
+            		<url>https://github.com/Nadimesprit/devops-exam-SR</url>
+        	</repository>
+    	</distributionManagement>
 </project>
