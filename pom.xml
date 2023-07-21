@@ -48,9 +48,7 @@
 	</build>
 	<distributionManagement>
         	<repository>
-            		<id>devops-exam-SR</id>
-            		<name>devops-exam-SR</name>
-            		<url>https://github.com/Nadimesprit/devops-exam-SR</url>
+            		<url>http://192.168.56.2:8081/repository/maven-releases/</url>
         	</repository>
     	</distributionManagement>
 </project>
