@@ -1,0 +1,8 @@
+FROM mysql:latest
+
+ENV MYSQL_ROOT_PASSWORD=asijee
+ENV MYSQL_DATABASE=examv2thouraya
+ENV MYSQL_USER=root
+ENV MYSQL_PASSWORD=asijee
+
+EXPOSE 3306
